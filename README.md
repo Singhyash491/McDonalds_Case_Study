@@ -1,1 +1,1 @@
-# McDonalds_Case_Study
+# McDonalds_Case_Stud
