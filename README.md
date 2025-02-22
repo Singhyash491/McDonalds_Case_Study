@@ -3,15 +3,11 @@
 ## 📖 Overview
 This project analyzes customer preferences and behaviors using **McDonald's dataset**. The study involves **exploratory data analysis (EDA), clustering, and customer segmentation** using **K-Means and Hierarchical Clustering**. The goal is to identify meaningful customer segments based on their perceptions and behaviors.
 
----
-
 ## 🛠️ Problem Statement
 McDonald's, a leading global fast-food chain, caters to a diverse customer base. The objective of this study is to:
 - **Identify distinct customer segments** based on their preferences.
 - **Analyze customer demographics and visit frequency**.
 - **Understand the factors driving customer satisfaction and dissatisfaction**.
-
----
 
 ## ✨ Solution Approach
 1. **Data Cleaning & Preprocessing**  
@@ -32,15 +28,11 @@ McDonald's, a leading global fast-food chain, caters to a diverse customer base.
    - Analyzed customer segments based on **gender, visit frequency, and age group**.  
    - Created **scatter plots** to compare customer preferences across segments.
   
----
-
 ## 📝 Key Findings
 - **Segment 1 & 4**: Positive perception of McDonald's (liked by customers).  
 - **Segment 2**: Customers strongly dislike McDonald's (perceive it as greasy, expensive, and disgusting).  
 - **Segment 3**: Mixed opinions – some customers like it, some don't.  
 - **Frequent visitors** tend to like McDonald's more than occasional visitors.
-
----
 
 ## 📊 Libraries and Tools Used
 - **Data Processing:** pandas, numpy  
@@ -48,16 +40,12 @@ McDonald's, a leading global fast-food chain, caters to a diverse customer base.
 - **Machine Learning & Clustering:** scikit-learn (K-Means, PCA, Agglomerative Clustering)  
 - **Statistical Analysis:** statsmodels (Mosaic plots)  
 
----
-
 ## 🚀 How It Works
 1. **Input:** Loads McDonald's customer dataset.  
 2. **Processing:** Cleans data, encodes categorical features, applies PCA & clustering models.  
 3. **Output:**  
    - Identified **4 customer segments**.  
    - Generated insights on **customer perception, demographics, and visit frequency**.
-
----
 
 ### 🔥 How to Run the Project
 1. Install dependencies:  
