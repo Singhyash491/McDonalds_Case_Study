@@ -40,13 +40,15 @@ McDonald's, a leading global fast-food chain, caters to a diverse customer base.
 - **Segment 3**: Mixed opinions – some customers like it, some don't.  
 - **Frequent visitors** tend to like McDonald's more than occasional visitors.
 
--  
+---
 
 ## 📊 Libraries and Tools Used
 - **Data Processing:** pandas, numpy  
 - **Visualization:** seaborn, matplotlib  
 - **Machine Learning & Clustering:** scikit-learn (K-Means, PCA, Agglomerative Clustering)  
 - **Statistical Analysis:** statsmodels (Mosaic plots)  
+
+---
 
 ## 🚀 How It Works
 1. **Input:** Loads McDonald's customer dataset.  
